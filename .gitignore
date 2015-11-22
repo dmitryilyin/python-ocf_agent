@@ -1,0 +1,41 @@
+# python
+*.py[cod]
+
+# packaging
+*.egg
+*.egg-info
+build
+eggs
+parts
+var
+sdist
+dist
+develop-eggs
+.installed.cfg
+lib64
+deb_dist
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# spec
+.coverage
+.tox
+.cache
+nosetests.xml
+
+# dev
+.idea
+*~
+*.swp
+
+# Packaging
+MANIFEST
+
+# cython
+*.c
+*.so
+
+# doc
+_build

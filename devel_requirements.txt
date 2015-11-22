@@ -1,0 +1,7 @@
+mock
+pytest
+flake8
+psutil
+
+sphinx
+cloud_sptheme
